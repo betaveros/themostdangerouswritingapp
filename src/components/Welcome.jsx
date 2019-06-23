@@ -22,6 +22,7 @@ const Welcome = () => {
           <h2>
             Don’t stop typing, or all progress will be lost.<i className="caret icon-cursor"/>
           </h2>
+          <p>small fork by betaveros so it works directly off GitHub Pages</p>
           <Space xl />
           <WriteButton ghost color="red" />
         </div>

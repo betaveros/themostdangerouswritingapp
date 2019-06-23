@@ -74,6 +74,10 @@ const Help = () => {
         <h2>Who made this?</h2>
         <p><i className="icon-mdwa"></i> <abbr title="The Most Dangerous Writing App">MDWA</abbr> was written by <a href="https://www.twitter.com/maebert" rel="noopener noreferrer" target="_blank" title="Manuel Ebert">Manuel Ebert</a> over two glasses of wine on a Sunday afternoon and is <a title="MDWA on Github" target="_blank" rel="noopener noreferrer" href="https://www.github.com/maebert/themostdangerouswritingapp"><i className="icon-github"></i>open source</a>.</p>
 
+        <p>As you might have noticed on the front page, this is a small fork by betaveros because apparently MDWA got acquired or something, and although the site it redirects to probably does the same thing, I can't get used to it. Also, as of time of writing, it appears to let me export my progress from the failure screen... which is literally the defining (lack of) feature of MDWA?</p>
+
+        <p>Many thanks to Manuel Ebert for open sourcing this.</p>
+
         <h2>Can anybody read what I write?</h2>
         <p>No, all your writing is private and not submitted to or stored on any server.</p>
 
